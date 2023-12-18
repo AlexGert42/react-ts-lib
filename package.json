@@ -6,9 +6,14 @@
   "files": [
     "dist"
   ],
+  "author": "AlexGert42",
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/react-ts-lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGert42/react-ts-lib.git"
   },
   "main": "./dist/react-ts-lib.umd.js",
   "module": "./dist/react-ts-lib.es.js",
